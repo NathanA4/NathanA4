@@ -1,4 +1,4 @@
-Hi! I'm a Software Engineering Student at Ontario Tech University with a strong passion for the world of technology. My expertise and interest include Software Development, Game Development and Artificial Intelligence. I love collaborating with others to create cool solutions and products. Outside of engineering, I enjoy playing the guitar and cooking.
+Hi! I'm a Software Engineering Student at Ontario Tech University with a strong passion for the world of technology. My expertise and interest include Software Development, Game Development and Artificial Intelligence. I love collaborating with others to create cool solutions and products.
 <p align="left">
 <a href="https://www.linkedin.com/in/nathaniel-kebere-b7bb74216/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="nathaniel-kebere-b7bb74216" height="40" width="40"/></a>
 </p>
